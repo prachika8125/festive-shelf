@@ -1,6 +1,6 @@
 
 export const ui = {
-  title: 'Festival Stories',
+  title: 'The Festive Shelf',
   sub: 'Pick a book from the shelf and turn the pages to learn the stories behind them.',
   next: 'Next', back: 'Back', close: 'Close',
 };
