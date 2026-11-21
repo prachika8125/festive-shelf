@@ -1,9 +1,10 @@
-# Tihar Storybooks
+# Festival Stories
 
-A learning space for kids. A decorated bookshelf of six storybooks,with an illustration on the left, a short story on the right,and a small mini-game. 
+A learning space for kids. 
+Festival Stories is a digital bookshelf made for children, where they can open a storybook for each day of Tihar and Chhath, turn its pages, and learn the story behind each festival along with a mini-game.
 
 
-## Try it out live
+
 https://festivalstories.vercel.app/
 
 ## Run locally (Windows CMD)
